@@ -4,6 +4,8 @@ A new Flutter project.
 
 ## Getting Started
 
+![Screenshot_20231224_204614](https://github.com/coderodilov/flutter_business_card/assets/91076403/fad6dcef-a102-4ad8-adae-c0658c56b7d9)
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
